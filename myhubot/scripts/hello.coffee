@@ -11,5 +11,5 @@ module.exports = (robot) ->
 		msg.send "hello"
 
 	robot.hear /HELLO$/i, (msg) ->
-		msg.send "what's happen?"
+		msg.reply "what's happen?"
 
