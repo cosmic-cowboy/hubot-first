@@ -18,7 +18,8 @@
     "hubot-scripts": "^2.5.16",
     "hubot-shipit": "^0.1.1",
     "hubot-youtube": "^0.1.2",
-    "cron": "^1.0.5"
+    "cron": "^1.0.5",
+    "cheerio": "^0.17.0"
   },
   "engines": {
     "node": "0.10.x"
